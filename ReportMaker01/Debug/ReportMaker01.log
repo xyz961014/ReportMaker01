@@ -1,0 +1,46 @@
+﻿生成启动时间为 2017/8/3 22:31:16。
+     1>项目“D:\Projects\ReportMaker01\ReportMaker01\ReportMaker01.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ReportMaker01.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ReportMaker01.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CheckDlg.cpp EventDlg.cpp EventEditDlg.cpp FirstElevenDlg.cpp FormatDlg.cpp GameNameDlg.cpp MainFrm.cpp Penalty.cpp PlayerDlg.cpp PlayerEditDlg.cpp PlayerEditDlg1.cpp ReportMaker01.cpp ReportMaker01Doc.cpp ReportMaker01View.cpp
+         ReportMaker01View.cpp
+         ReportMaker01Doc.cpp
+         ReportMaker01.cpp
+         PlayerEditDlg1.cpp
+         PlayerEditDlg.cpp
+         PlayerDlg.cpp
+         Penalty.cpp
+         MainFrm.cpp
+         GameNameDlg.cpp
+         FormatDlg.cpp
+         FirstElevenDlg.cpp
+         EventEditDlg.cpp
+         EventDlg.cpp
+         CheckDlg.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\ReportMaker01.res" ReportMaker01.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\ReportMaker01\Debug\ReportMaker01.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Projects\ReportMaker01\Debug\ReportMaker01.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\ReportMaker01\Debug\ReportMaker01.lib" /MACHINE:X86 Debug\ReportMaker01.res
+         Debug\CheckDlg.obj
+         Debug\EventDlg.obj
+         Debug\EventEditDlg.obj
+         Debug\FirstElevenDlg.obj
+         Debug\FormatDlg.obj
+         Debug\GameNameDlg.obj
+         Debug\MainFrm.obj
+         Debug\Penalty.obj
+         Debug\PlayerDlg.obj
+         Debug\PlayerEditDlg.obj
+         Debug\PlayerEditDlg1.obj
+         Debug\ReportMaker01.obj
+         Debug\ReportMaker01Doc.obj
+         Debug\ReportMaker01View.obj
+         Debug\stdafx.obj
+         ReportMaker01.vcxproj -> D:\Projects\ReportMaker01\Debug\ReportMaker01.exe
+     1>已完成生成项目“D:\Projects\ReportMaker01\ReportMaker01\ReportMaker01.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.07
